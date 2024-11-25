@@ -6,7 +6,7 @@ Moreover, through abductive hypothesis testing, probing, and causal inference, w
 
 # torch-dra
 
-A learnable activation function `DRA` for recursive and periodic data modalities
+A learnable activation function Dynamic Range Activator `DRA` for recursive and periodic data modalities
 
 ## Installation
 
