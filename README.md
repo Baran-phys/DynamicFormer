@@ -7,7 +7,7 @@ To capture the recursive and hierarchical nature inherent in these intersection 
 Beyond simply computing intersection numbers, we explore the enumerative "world-model" of Transformers. Our interpretability analysis reveals that the network is implicitly modeling the Virasoro constraints in a purely data-driven manner. Moreover, through abductive hypothesis testing, probing, and causal inference, we uncover evidence of an emergent internal representation of the large-genus asymptotic of $\psi$-class intersection numbers. These findings suggest that the network internalizes the parameters of the asymptotic closed-form formula linearly while capturing the polynomiality phenomenon of $\psi$-class intersection numbers in a nonlinear manner.  
 
 This paper has been published at **ICLR 2025**. You can read it at:  
-[https://openreview.net/forum?id=4X9RpKH4Ls&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)](https://openreview.net/forum?id=4X9RpKH4Ls&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
+[link](https://openreview.net/forum?id=4X9RpKH4Ls&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
 ---
 
