@@ -6,7 +6,7 @@ To capture the recursive and hierarchical nature inherent in these intersection 
 
 Beyond simply computing intersection numbers, we explore the enumerative "world-model" of Transformers. Our interpretability analysis reveals that the network is implicitly modeling the Virasoro constraints in a purely data-driven manner. Moreover, through abductive hypothesis testing, probing, and causal inference, we uncover evidence of an emergent internal representation of the large-genus asymptotic of $\psi$-class intersection numbers. These findings suggest that the network internalizes the parameters of the asymptotic closed-form formula linearly while capturing the polynomiality phenomenon of $\psi$-class intersection numbers in a nonlinear manner.  
 
-This paper has been published at **ICLR 2025**. You can read it at:  
+This paper has been **published at ICLR 2025**. You can read it at:  
 [link](https://openreview.net/forum?id=4X9RpKH4Ls&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions))
 
 ---
@@ -20,3 +20,17 @@ A learnable activation function, **Dynamic Range Activator (DRA)**, designed for
 ```bash
 pip install torch-dra
 ```  
+
+## Citation  
+
+If you use this work, please cite it as:  
+
+```bibtex
+@inproceedings{
+hashemi2025can,
+title={Can Transformers Do Enumerative Geometry?},
+author={Baran Hashemi and Roderic Guigo Corominas and Alessandro Giacchetto},
+booktitle={The Thirteenth International Conference on Learning Representations},
+year={2025},
+url={https://openreview.net/forum?id=4X9RpKH4Ls}
+}
